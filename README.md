@@ -32,11 +32,8 @@ It's about Probabilistic Roadmap Method (PRM). Using a UR5 Robot Arm. The PRM pl
 5. `rosrun prm prm_astar` 
 
 # Demo
-```markdown
-<iframe width="640" height="360" src ="https://youtu.be/vnExbxv-7lg" frameborder='0' gesture="media" allowfullscreen=""></iframe>
-```
+
 [![Video Label](http://img.youtube.com/vi/vnExbxv-7lg/0.jpg)](https://youtu.be/vnExbxv-7lg?t=0s)
-<iframe width="640" height="360" src ="https://youtu.be/vnExbxv-7lg" frameborder='0' gesture="media" allowfullscreen=""></iframe>
 
 
 # Notes
